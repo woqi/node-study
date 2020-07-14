@@ -1,0 +1,42 @@
+[
+  {
+    "modelType": "config",
+    "dataField": {
+      "title": "111"
+    }
+  },
+  {
+    "modelType": "addProduct",
+    "dataField": {
+      "checkBox": [],
+      "productSource": "specifiedProduct",
+      "productList": [
+        {
+          "productNumber": "DW19C5100A",
+          "productName": "2019年春季单鞋",
+          "salePrice": 139.00,
+          "stockTotal": 165106,
+          "productLogo": "http://wangzheshike.xxgushi.com/admin/img_3.jpg"
+        },
+        {
+          "productNumber": "DW19C2309A",
+          "productName": "2019年春季单鞋",
+          "salePrice": 1000.00,
+          "stockTotal": 10100,
+          "productLogo": "http://wangzheshike.xxgushi.com/admin/img_3.jpg"
+        },
+        {
+          "productNumber": "DW19C1377A",
+          "productName": "2019年春季单鞋",
+          "salePrice": 1000.00,
+          "stockTotal": 0,
+          "productLogo": "http://wangzheshike.xxgushi.com/admin/img_3.jpg"
+        }
+      ],
+      "productGoupList": [],
+      "ListStyle": "100%",
+      "goodHeight": "",
+      "productStyle": ""
+    }
+  }
+]
